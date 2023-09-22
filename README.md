@@ -1,11 +1,6 @@
 [![MasterHead](https://www.streamnetworks.co.uk/wp-content/uploads/Cyber-security-banner_.jpg)](https://Darkshad0W12.io)
 <h1 align="center">Hi 👋, I'm Anuraag</h1>
-<h3 align="center">A passionate Cybersecurity and Gamer from India.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkshad0w12&label=Profile%20views&color=0e75b6&style=flat-square" alt="darkshad0w12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkshad0w12" alt="darkshad0w12" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dark_shad0w12" target="blank"><img src="https://img.shields.io/twitter/follow/dark_shad0w12?logo=twitter&style=for-the-badge" alt="dark_shad0w12" /></a> </p>
+<h3 align="center">A passionate Computer Science Engineer and Gamer from India.</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine learning, Astronomy**
 
