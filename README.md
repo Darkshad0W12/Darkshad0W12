@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **anuragmaity16@gmail.com**
 
-- ⚡ Fun fact **I can name all the planets in our solar system backward without hesitation, Pluto still counts in my book 🪐**
+- ⚡ Fun fact: **I can name all the planets in our solar system backward without hesitation, Pluto still counts in my book 🪐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
