@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Anuraag</h1>
 <h3 align="center">A passionate Computer Science Engineer and Gamer from India.</h3>
 
-- 🌱 I’m currently learning **Data Science, Machine learning, Astronomy**
-
+- 🌱 I’m currently learning **Data Science, Machine learning**
+- 🌌 Exploring the cosmos, one star at a time, as we unravel the mysteries of the universe. 🔭
 - 👨‍💻 All of my projects are available at [https://github.com/Darkshad0W12?tab=repositories](https://github.com/Darkshad0W12?tab=repositories)
 
 - 💬 Ask me about **IoT Projects and Gaming**
